@@ -1,4 +1,4 @@
-name: Automated Commit
+name: EveryDay Commit
 
 on:
   push:
